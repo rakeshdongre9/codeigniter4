@@ -1,1 +1,1 @@
-https://roytuts.com/setup-hmvc-with-codeigniter-3/
+https://www.binaryboxtuts.com/php-tutorials/codeigniter-4-json-web-tokenjwt-authentication/
